@@ -47,7 +47,7 @@ Please read [CONTRIBUTING.md](https://github.com/NAU-OSS/SimplePlatformer/blob/m
 
 ## Authors
 
-* **Elijah Sprouse** - *Initial work*
+* **Elijah Sprouse** - elijah@simpleplatformer.com
 
 See also our wonderful list of [contributors](https://github.com/NAU-OSS/SimplePlatformer/graphs/contributors) who participated and help make this project great.
 
